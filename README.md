@@ -19,7 +19,7 @@ The Solana Arbitrage Trading Tool is an automated solution crafted to spot and c
 - **Real-time Data:** Leverages real-time price data from diverse sources to make informed trading decisions.
 - **Wallet Integration:** Seamless integration with Solana wallets for efficient trading execution.
 
-![Screenshot](![Scr](https://github.com/garbache/Solana-arbitrage-trading/assets/157644544/399100ec-dc9f-4578-a027-5e623e7b45a1)
+![Screenshot](https://github.com/garbache/Solana-arbitrage-trading/assets/157644544/399100ec-dc9f-4578-a027-5e623e7b45a1
 )
 
 ## Getting Started
