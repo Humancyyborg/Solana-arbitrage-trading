@@ -30,7 +30,3 @@ Follow these steps to set up and launch the Solana Arbitrage Trading Tool on you
   - Create a `.env file` in the project's root directory and define your environment variables. You can use the provided `.env.example` file as a template.
 - Start the trading tool.
 
-### Prerequisites
-
-Before running the Solana Arbitrage Trading Tool, ensure that you have the following prerequisites installed:
-- .Net Framework 4.5
